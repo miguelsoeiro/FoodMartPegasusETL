@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="WIN-48AUAGSDP02.FoodMartDW"
+  DTS:DTSID="{45F6167A-B227-4E4D-9D29-3E4FC311D852}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=WIN-48AUAGSDP02;Initial Catalog=FoodMartDW;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

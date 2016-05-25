@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectInfo>
+    <Name>FoodMart_SSIS</Name>
+    <LastWriteTime>2016-05-24T18:45:52.1563019Z</LastWriteTime>
+    <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+  </ProjectInfo>
+  <LastBuildInfos>
+    <ProjectBuildItemInfo>
+      <Name>FoodMart_Inicial.dtsx</Name>
+      <LastWriteTime>2016-05-24T17:25:50.7102849Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>FoodMart_Incremental.dtsx</Name>
+      <LastWriteTime>2016-05-24T19:42:14.0713019Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+  </LastBuildInfos>
+</BuildLog>

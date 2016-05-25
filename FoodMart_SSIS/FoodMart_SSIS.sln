@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "FoodMart_SSIS", "FoodMart_SSIS\FoodMart_SSIS.dtproj", "{2147C231-F646-4D18-B4BC-5BB45D55FD3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2147C231-F646-4D18-B4BC-5BB45D55FD3F}.Development|Default.ActiveCfg = Development
+		{2147C231-F646-4D18-B4BC-5BB45D55FD3F}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

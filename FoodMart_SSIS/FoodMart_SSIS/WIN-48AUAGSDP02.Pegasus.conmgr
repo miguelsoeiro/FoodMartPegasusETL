@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="WIN-48AUAGSDP02.Pegasus"
+  DTS:DTSID="{A6A03B80-AE75-4709-B59E-87D2EAD16D68}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=WIN-48AUAGSDP02;Initial Catalog=Pegasus;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
